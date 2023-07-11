@@ -9,11 +9,11 @@ int number2 = Convert.ToInt32(inputedString2);
 //if (square == number2)
 if(number2 == number1*number1)
 {
-    Console.WriteLine("Второе число является квадратом первого!");
+    Console.WriteLine($"Число {number2} является квадратом от {number1}!");
 }
     else 
     {
-    Console.WriteLine("Второе число не является квадратом первого!");
+    Console.WriteLine($"Число {number2} не является квадратом от {number1}!");
     }
 
 
