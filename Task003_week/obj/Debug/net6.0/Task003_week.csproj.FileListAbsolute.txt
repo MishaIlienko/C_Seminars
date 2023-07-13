@@ -1,0 +1,15 @@
+/Users/mnwahr/Desktop/git/C#/C#Seminars/Example/Task003_week/obj/Debug/net6.0/Task003_week.csproj.AssemblyReference.cache
+/Users/mnwahr/Desktop/git/C#/C#Seminars/Example/Task003_week/obj/Debug/net6.0/Task003_week.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mnwahr/Desktop/git/C#/C#Seminars/Example/Task003_week/obj/Debug/net6.0/Task003_week.AssemblyInfoInputs.cache
+/Users/mnwahr/Desktop/git/C#/C#Seminars/Example/Task003_week/obj/Debug/net6.0/Task003_week.AssemblyInfo.cs
+/Users/mnwahr/Desktop/git/C#/C#Seminars/Example/Task003_week/obj/Debug/net6.0/Task003_week.csproj.CoreCompileInputs.cache
+/Users/mnwahr/Desktop/git/C#/C#Seminars/Example/Task003_week/bin/Debug/net6.0/Task003_week
+/Users/mnwahr/Desktop/git/C#/C#Seminars/Example/Task003_week/bin/Debug/net6.0/Task003_week.deps.json
+/Users/mnwahr/Desktop/git/C#/C#Seminars/Example/Task003_week/bin/Debug/net6.0/Task003_week.runtimeconfig.json
+/Users/mnwahr/Desktop/git/C#/C#Seminars/Example/Task003_week/bin/Debug/net6.0/Task003_week.dll
+/Users/mnwahr/Desktop/git/C#/C#Seminars/Example/Task003_week/bin/Debug/net6.0/Task003_week.pdb
+/Users/mnwahr/Desktop/git/C#/C#Seminars/Example/Task003_week/obj/Debug/net6.0/Task003_week.dll
+/Users/mnwahr/Desktop/git/C#/C#Seminars/Example/Task003_week/obj/Debug/net6.0/refint/Task003_week.dll
+/Users/mnwahr/Desktop/git/C#/C#Seminars/Example/Task003_week/obj/Debug/net6.0/Task003_week.pdb
+/Users/mnwahr/Desktop/git/C#/C#Seminars/Example/Task003_week/obj/Debug/net6.0/Task003_week.genruntimeconfig.cache
+/Users/mnwahr/Desktop/git/C#/C#Seminars/Example/Task003_week/obj/Debug/net6.0/ref/Task003_week.dll
