@@ -6,6 +6,6 @@ int num = Convert.ToInt32(input);
 int num1 = -num;
 while(num1 <= num)
 {
-    Console.Write(num1);
+    Console.Write($"{num1} ");
     num1++;
 }
