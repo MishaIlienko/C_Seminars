@@ -10,7 +10,7 @@ bool Validate3sign(int number)
 {
     if (number >= 100 && number < 1000)
     {
-    return true;
+        return true;
     }
     System.Console.WriteLine("Число не трехзначное!");
     return false;
@@ -18,7 +18,7 @@ bool Validate3sign(int number)
 int num = ReadInt("Введите число ->");
 if (Validate3sign(num))
 {
-        int lastDigit = num %10;
-        System.Console.WriteLine($"Последнее число {lastDigit}");
-    
+    int lastDigit = num % 10;
+    System.Console.WriteLine($"Последнее число {lastDigit}");
+
 }
