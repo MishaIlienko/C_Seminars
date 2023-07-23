@@ -12,11 +12,12 @@ int number(string message)
 }
 int a = number("Введите первое число! -> ");
 int b = number("Введите второе число! -> ");
-if (a % b == 0)
+int result = a % b;
+if (result == 0)
 {
     System.Console.WriteLine("Второе число кратное первому!");
 }
 else
 {
-    System.Console.WriteLine($"Остаток -> {a % b}");
+    System.Console.WriteLine($"Остаток -> {result}");
 }
